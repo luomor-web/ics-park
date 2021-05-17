@@ -23,6 +23,10 @@
 
 用户名：user1  密码：123456
 
+小程序体验：
+<img src="https://images.gitee.com/uploads/images/2021/0517/153714_2d92cc7d_7716485.jpeg"/>
+
+
 ## 园区后台管理系统
 
 1. 驾驶舱
