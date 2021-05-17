@@ -19,13 +19,11 @@
 
 ### 体验地址
 
-演示地址：http://demo.totinlink.com/
-
-用户名：user1  密码：123456
+后台演示地址：http://demo.totinlink.com/      用户名：user1      密码：123456
 
 扫码体验小程序：
 
-<img src="https://images.gitee.com/uploads/images/2021/0517/153714_2d92cc7d_7716485.jpeg"/>
+<img src="https://images.gitee.com/uploads/images/2021/0517/153714_2d92cc7d_7716485.jpeg" width="200" height="200"/>
 
 
 ## 园区后台管理系统
