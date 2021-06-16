@@ -177,6 +177,6 @@
 
 <br/>
 <div align=center>
-<img src="https://images.gitee.com/uploads/images/2021/0318/115830_22776eb2_7716485.png" width="250" height="250" alt="微信联系方式"/>
+<img src="https://oscimg.oschina.net/oscnet/up-cbdf74c55a5c88a3806217539e8d022a7fc.png" width="250" height="250" alt="微信联系方式"/>
 </div>
   
