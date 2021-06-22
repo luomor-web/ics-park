@@ -19,7 +19,11 @@
 
 ### 体验地址
 
-后台演示地址：http://demo.totinlink.com/      用户名：user1      密码：123456
+后台演示地址：http://demo.totinlink.com/
+
+用户名：user1
+
+密码：123456
 
 扫码体验小程序：
 
