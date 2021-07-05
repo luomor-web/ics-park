@@ -16,8 +16,8 @@
 * 项目管理工具: Maven 3.3+
 * 工具类：Hutool 5.5.1
 
-### 架构技术支持
-- 参考地址：[前往](https://gitee.com/x13800138000/shoprh-b2c)
+### 技术支持
+- [技术支持地址](https://gitee.com/x13800138000/shoprh-b2c)
 
 
 ### 体验地址
