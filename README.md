@@ -16,10 +16,6 @@
 * 项目管理工具: Maven 3.3+
 * 工具类：Hutool 5.5.1
 
-### 技术支持
-- [技术支持地址](https://gitee.com/x13800138000/shoprh-b2c)
-
-
 ### 体验地址
 
 后台演示地址：http://demo.totinlink.com/
@@ -186,4 +182,7 @@
 <div align=center>
 <img src="https://oscimg.oschina.net/oscnet/up-cbdf74c55a5c88a3806217539e8d022a7fc.png" width="250" height="250" alt="微信联系方式"/>
 </div>
+
+### 鸣谢
+- [若狐](https://gitee.com/x13800138000/shoprh-b2c) 开源框架
   
