@@ -176,6 +176,9 @@
 <img src="https://images.gitee.com/uploads/images/2021/0220/165049_8a226d2b_2336929.jpeg" width="200" height="433"  alt="公告"/>
 </div>
 
+### 加入我们
+QQ群: 928028826
+
 ## 联系方式（技术支持）
 
 <br/>
