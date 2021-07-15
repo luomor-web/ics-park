@@ -183,7 +183,7 @@ QQ群: 928028826
 
 <br/>
 <div align=center>
-<img src="https://oscimg.oschina.net/oscnet/up-756a1ed9a1f871c29266d9c556cab6c2ef2.JPEG" width="250" height="250" alt="微信联系方式"/>
+<img src="https://oscimg.oschina.net/oscnet/up-cbdf74c55a5c88a3806217539e8d022a7fc.png" width="250" height="250" alt="微信联系方式"/>
 </div>
 
 ### 鸣谢
