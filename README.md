@@ -18,7 +18,7 @@
 
 ### 体验地址
 
-后台演示地址：http://demo.totinlink.com/
+后台演示地址：http://ics.shoprh.com/
 
 用户名：user1
 
