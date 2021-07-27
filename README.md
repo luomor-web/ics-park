@@ -26,7 +26,7 @@
 
 扫码体验小程序：
 
-<img src="https://images.gitee.com/uploads/images/2021/0517/153714_2d92cc7d_7716485.jpeg" width="200" height="200"/>
+<img src="db/gh_dcb5ec787e15_258.jpg" width="200" height="200"/>
 
 
 ## 园区后台管理系统
