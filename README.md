@@ -28,6 +28,17 @@
 
 <img src="db/gh_dcb5ec787e15_258.jpg" width="200" height="200"/>
 
+<br/>
+## 联系方式（技术支持）
+
+<br/>
+<div align=center>
+<img src="db/20210830162043.jpg" width="250" height="250" alt="微信联系方式"/>
+</div>
+
+### 加入我们
+QQ群: 928028826
+
 
 ## 园区后台管理系统
 
@@ -174,16 +185,6 @@
 <img src="https://images.gitee.com/uploads/images/2021/0220/165031_cc0e4efc_2336929.jpeg" width="200" height="433"  alt="服务"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://images.gitee.com/uploads/images/2021/0220/165049_8a226d2b_2336929.jpeg" width="200" height="433"  alt="公告"/>
-</div>
-
-### 加入我们
-QQ群: 928028826
-
-## 联系方式（技术支持）
-
-<br/>
-<div align=center>
-<img src="https://oscimg.oschina.net/oscnet/up-cbdf74c55a5c88a3806217539e8d022a7fc.png" width="250" height="250" alt="微信联系方式"/>
 </div>
 
 ### 鸣谢
