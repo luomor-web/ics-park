@@ -32,9 +32,7 @@
 ## 联系方式（技术支持）
 
 <br/>
-<div align=center>
 <img src="db/20210830162043.jpg" width="250" height="250" alt="微信联系方式"/>
-</div>
 
 ### 加入我们
 QQ群: 928028826
