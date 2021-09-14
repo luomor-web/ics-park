@@ -26,7 +26,7 @@
 
 扫码体验小程序：
 
-<img src="db/gh_dcb5ec787e15_258.jpg" width="200" height="200"/>
+<img src="db/qr_code.png" width="200" height="200"/>
 
 <br/>
 ## 联系方式（技术支持）
