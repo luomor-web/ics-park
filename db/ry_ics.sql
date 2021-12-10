@@ -519,8 +519,8 @@ CREATE TABLE `sys_dept` (
 /*Data for the table `sys_dept` */
 
 insert  into `sys_dept`(`dept_id`,`parent_id`,`ancestors`,`dept_name`,`order_num`,`leader`,`leader_id`,`phone`,`email`,`status`,`is_default`,`del_flag`,`park_id`,`create_by`,`create_time`,`update_by`,`update_time`) values
-(100,0,'0','同天集团',0,'若依',1,'15888888888','ry@qq.com','0','\0','0',1,'admin','2018-03-16 11:33:00','admin','2020-11-03 16:50:45'),
-(101,100,'0,100','广东工业设计城',1,'若依',1,'15888888888','ry@qq.com','0','\0','0',1,'admin','2018-03-16 11:33:00','admin','2020-11-03 16:50:45'),
+(100,0,'0','XX集团',0,'若依',1,'15888888888','ry@qq.com','0','\0','0',1,'admin','2018-03-16 11:33:00','admin','2020-11-03 16:50:45'),
+(101,100,'0,100','XXXX设计城',1,'若依',1,'15888888888','ry@qq.com','0','\0','0',1,'admin','2018-03-16 11:33:00','admin','2020-11-03 16:50:45'),
 (103,101,'0,100,101','研发部门',2,'若依',1,'15888888888','ry@qq.com','0','\0','0',1,'admin','2018-03-16 11:33:00','admin','2020-11-03 16:50:39'),
 (105,101,'0,100,101','运营部门',3,'若依',1,'15888888888','ry@qq.com','0','','0',1,'admin','2018-03-16 11:33:00','admin','2020-11-03 16:50:45'),
 (115,0,'0','懋隆集团',1,'李白',NULL,'11111111','289710565@qq.com','0','\0','0',1,'admin','2020-11-18 09:20:03','admin','2020-11-18 09:20:10');
@@ -5483,8 +5483,9 @@ CREATE TABLE `sys_user` (
 /*Data for the table `sys_user` */
 
 insert  into `sys_user`(`user_id`,`dept_id`,`login_name`,`user_name`,`user_type`,`openid`,`email`,`mobile`,`gender`,`post`,`avatar`,`password`,`salt`,`status`,`del_flag`,`login_ip`,`login_date`,`park_id`,`customer_id`,`create_by`,`create_time`,`update_by`,`update_time`,`remark`) values
-(1,103,'admin','若依-管理员',2,NULL,'ry@163.com','13800138001','0','Java开发工程师','/profile/2021/01/06/3548e4de521858f0f33d58b71e4b0e08.jpeg','8aa9dcb09bdbc0d67ff84d95d51b8bf3','XMS4yi','0','0','127.0.0.1','2021-04-06 16:51:31',1,12,'admin','2018-03-16 11:33:00','admin','2021-04-06 16:51:31','管理员'),
+(1,103,'admin','若依-管理员',2,NULL,'ry@163.com','13800138001','0','Java开发工程师','/profile/2021/01/06/3548e4de521858f0f33d58b71e4b0e08.jpeg','934ff32dcfcdbd032f433af4aa7cb626','ka4XWM','0','0','127.0.0.1','2021-04-06 16:51:31',1,12,'admin','2018-03-16 11:33:00','admin','2021-04-06 16:51:31','管理员'),
 (2,105,'ry','若依',1,NULL,'ry@qq.com','15666666666','1','设计师','/profile/2020/12/10/8a8422a7dda645a70d88108885d95634.jpeg','d38ca669c37aaaecaa07142c42f8777e','WlAQVj','0','0','127.0.0.1','2021-03-12 16:23:35',10,12,'admin','2018-03-16 11:33:00','admin','2021-03-12 16:23:34','测试员11');
+
 
 /*Table structure for table `sys_user_role` */
 
