@@ -18,7 +18,7 @@
 
 ### 体验地址
 
-后台演示地址：https://ics.shoprh.com/
+体验地址(商业版）：https://ics.shoprh.com/
 
 用户名：user1
 
