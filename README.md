@@ -31,16 +31,16 @@
 ### 加入我们
 QQ群: 928028826
 
-扫码体验小程序：
-
-<img src="db/qr_code.png" width="200" height="200"/>
-
 <br/>
 ## 联系方式（技术支持）
 
 <br/>
 <img src="db/20210830162043.jpg" width="250" height="250" alt="微信联系方式"/>
 
+<br/>
+扫码体验小程序：
+
+<img src="db/qr_code.png" width="200" height="200"/>
 
 ## 园区后台管理系统
 
