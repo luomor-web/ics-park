@@ -22,15 +22,15 @@ const assetsCDN = {
   // https://cdn.jsdelivr.net/npm/ant-design-vue@1.3.9/dist/antd.min.css
   css: [],
   js: [
-    'https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.min.js',
-    'https://cdn.jsdelivr.net/npm/axios@0.19.0/dist/axios.min.js',
-    'https://cdn.jsdelivr.net/npm/vue-router@3.1.2/dist/vue-router.min.js',
-    'https://cdn.jsdelivr.net/npm/vuex@3.1.1/dist/vuex.min.js',
-    'https://cdn.jsdelivr.net/npm/moment@2.24.0/moment.min.js',
-    'https://cdn.jsdelivr.net/npm/moment@2.24.0/locale/zh-cn.js',
-    'https://cdn.jsdelivr.net/npm/@antv/g2@3.5.7/dist/g2.min.js',
-    'https://cdn.jsdelivr.net/npm/@antv/data-set@0.10.2/dist/data-set.min.js',
-    'https://cdn.jsdelivr.net/npm/ant-design-vue@1.6.0/dist/antd-with-locales.js'
+    '/js/vue.min.js',
+    '/js/axios.min.js',
+    '/js/vue-router.min.js',
+    '/js/vuex.min.js',
+    '/js/moment.min.js',
+    '/js/zh-cn.min.js',
+    '/js/g2.min.js',
+    '/js/data-set.min.js',
+    '/js/antd-with-locales.min.js'
   ]
 }
 // webpack build externals

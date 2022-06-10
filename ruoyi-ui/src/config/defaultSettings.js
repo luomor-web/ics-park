@@ -23,7 +23,7 @@ export default {
   menu: {
     locale: true
   },
-  title: '同创 ICS',
+  title: '智慧园区',
   pwa: false,
   iconfontUrl: '',
   production: process.env.NODE_ENV === 'production' && process.env.VUE_APP_PREVIEW !== 'true'

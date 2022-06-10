@@ -5,11 +5,11 @@
         <div class="header">
           <a href="/">
             <img src="~@/assets/logo.svg" class="logo" alt="logo">
-            <span class="title">智慧空间管理系统ICS</span>
+            <span class="title">智慧空间管理系统</span>
           </a>
         </div>
         <div class="desc">
-          同创ICS最具影响力的管理系统
+          智慧园区管理系统
         </div>
       </div>
 
@@ -22,7 +22,7 @@
           <a href="_self">条款</a>
         </div>
         <div class="copyright">
-          Copyright &copy; 2020 同创动力
+          Copyright &copy; 2020 若狐软件
         </div>
       </div>
     </div>
