@@ -38,8 +38,9 @@ QQ群: 928028826
 <img src="db/20210830162043.jpg" width="250" height="250" alt="微信联系方式"/>
 
 <br/>
-<img src="db/qr_code.png" width="200" height="200"/>
 扫码体验小程序：
+<br/>
+<img src="db/qr_code.png" width="200" height="200"/>
 <br/>
 ## 园区后台管理系统
 
