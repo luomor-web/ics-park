@@ -28,6 +28,7 @@ public class AddressUtils {
             log.error("获取地理位置异常 {}", ip);
             return address;
         }
+
         JSONObject obj;
         try {
             obj = JSON.unmarshal(rspStr, JSONObject.class);
