@@ -29,7 +29,7 @@ public class PolicyController extends BaseController {
     private IPolicyService policyService;
 
     /**
-     * 查询${tableComment}
+     * 查询
      */
     @GetMapping("get/{id}")
     public Policy get(@PathVariable("id") Long id) {

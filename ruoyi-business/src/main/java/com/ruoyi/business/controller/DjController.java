@@ -30,7 +30,7 @@ public class DjController extends BaseController {
     private IDjService djService;
 
     /**
-     * 查询${tableComment}
+     * 查询
      */
     @GetMapping("get/{id}")
     public Dj get(@PathVariable("id") Long id) {

@@ -30,11 +30,8 @@ public class DjBannerController extends BaseController {
     @Autowired
     private IDjBannerService djBannerService;
 
-    @Autowired
-    private RedisUtils redisUtils;
-
     /**
-     * 查询${tableComment}
+     * 查询
      */
     @GetMapping("get/{id}")
     public DjBanner get(@PathVariable("id") Long id) {
