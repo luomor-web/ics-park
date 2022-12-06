@@ -19,7 +19,6 @@ public class DfsConfig {
      */
     private String path;
 
-    //生产环境建议用nginx绑定域名映射
     /**
      * 域名
      */
